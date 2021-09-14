@@ -1,13 +1,11 @@
-+---------------------------+
-|Wireless Attack            |
-|		                        |
-|using the below tools      |
-| 			                    |
-|+-----wash(or airodump-ng) |
-|                 			    |
-|+-----reaver		            |
-|			                      |
-+---------------------------+
++
+|Wireless Attack            
+|		                        
+|using the below tools      
+| 			                    
++-----wash(or airodump-ng) 
+|                 			    
++-----reaver		    
 
 -==[SimpleAttackWay]==-
 
